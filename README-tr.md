@@ -30,13 +30,20 @@ Sporu “rastgele yapılan bir aktivite” olmaktan çıkarıp ölçülebilir bi
 ## 📱 Uygulama Ekranları
 
 ### Ana Dashboard
-![Dashboard](./screenshots/dashboard.png)
+Dashboard 
+
+<img src="./screenshots/dashboard.png" width="10%" />
 
 ### Besin Arama ve Kalori Takibi
-![Nutrition](./screenshots/nutrition.png)
+Nutrition 
+
+<img src="./screenshots/nutrition.png" width="10%" />
 
 ### İstatistikler
-![Stats](./screenshots/stats.png)
+Stats 
+
+<img src="./screenshots/stats.png" width="10%" />
+
 
 ---
 
@@ -64,23 +71,25 @@ Sporu “rastgele yapılan bir aktivite” olmaktan çıkarıp ölçülebilir bi
 
 Örnek koleksiyon yapısı:
 
-users/
-   └── userId
+
+    users/
+
+    └── userId
+
         ├── profile
         ├── subscription
         ├── nutrition_logs
         └── workout_logs
         ...
 
-exercises/
-   └── exercise_name
-        ├── id
-        ├── category
-        ├── force
-        ├── images
-        └── instructions
-        ...
-...        
+    exercises/
+           └── exercise_name
+           ├── id
+           ├── category
+           ├── force
+           ├── images
+           └── instructions
+           ...
 
 
 ## ⚔️ Karşılaşılan Zorluklar ve Çözümler
@@ -101,7 +110,7 @@ Böylece:
 
 ---
 
-### 3️⃣ Veri Senkronizasyonu
+### 2️⃣ Veri Senkronizasyonu
 
 Problem:
 Beslenme ve antrenman loglarında offline/online senkronizasyon tutarsızlıkları oluşuyordu.
@@ -126,4 +135,5 @@ Sporcularını kişisel koçtan daha iyi takip eden onlara özel programlar yaza
 ## 👤 Developer
 
 Atahan Işıklı
+
 Computer Engineering Student
