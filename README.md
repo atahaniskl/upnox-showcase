@@ -30,7 +30,7 @@ The goal is to transform fitness from a random activity into a measurable, data-
 
 ### Main Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard]<img src="./screenshots/dashboard.png" width="30%" />
 
 ### Nutrition Search & Calorie Tracking
 
