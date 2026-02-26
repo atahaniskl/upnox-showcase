@@ -30,15 +30,21 @@ The goal is to transform fitness from a random activity into a measurable, data-
 
 ### Main Dashboard
 
-![Dashboard](<img src="./screenshots/dashboard.png" width="20%" />)
+Dashboard 
+
+<img src="./screenshots/dashboard.png" width="10%" />
 
 ### Nutrition Search & Calorie Tracking
 
-![Nutrition](./screenshots/nutrition.png)
+Nutrition 
+
+<img src="./screenshots/nutrition.png" width="10%" />
 
 ### Statistics & Progress Tracking
 
-![Stats](./screenshots/stats.png)
+Stats 
+
+<img src="./screenshots/stats.png" width="10%" />
 
 ---
 
@@ -74,24 +80,25 @@ Client never directly communicates with external secured services.
 ## 🗄 Database Model (Overview)
 
 Example Firestore structure:
-'''
-users/
-   └── userId
+
+    users/
+
+    └── userId
+
         ├── profile
         ├── subscription
         ├── nutrition_logs
         └── workout_logs
         ...
 
-exercises/
-   └── exercise_name
+    exercises/
+        └── exercise_name
         ├── id
         ├── category
         ├── force
         ├── images
         └── instructions
         ...
-'''
 Design principles:
 
 * Structured user-based data isolation
@@ -151,7 +158,7 @@ It aims to become an intelligent, interactive ecosystem that can track athletes 
 ## 👤 Developer
 
 Atahan Işıklı
-Computer Engineering Student
-Backend & Systems-Focused Mobile Developer
 
-Nasıl ilerleyelim?
+Computer Engineering Student
+
+Backend & Systems-Focused Mobile Developer
