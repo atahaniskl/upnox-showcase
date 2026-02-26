@@ -42,7 +42,7 @@ Dashboard
 
 Nutrition 
 
-<img src="./screenshots/nutrition.png" width="10%" />
+<img src="./screenshots/nutrition.jpeg" width="10%" />
 
 ### Statistics & Progress Tracking
 
