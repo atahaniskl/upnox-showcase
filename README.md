@@ -93,12 +93,13 @@ Example Firestore structure:
 
     exercises/
         └── exercise_name
-        ├── id
-        ├── category
-        ├── force
-        ├── images
-        └── instructions
-        ...
+        
+            ├── id
+            ├── category
+            ├── force
+            ├── images
+            └── instructions
+            ...
 Design principles:
 
 * Structured user-based data isolation
