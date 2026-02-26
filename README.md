@@ -74,7 +74,7 @@ Client never directly communicates with external secured services.
 ## 🗄 Database Model (Overview)
 
 Example Firestore structure:
-
+'''
 users/
    └── userId
         ├── profile
@@ -91,7 +91,7 @@ exercises/
         ├── images
         └── instructions
         ...
-
+'''
 Design principles:
 
 * Structured user-based data isolation
