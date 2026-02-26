@@ -1,5 +1,9 @@
 # 🚀 Upnox Showcase
 
+<a href="https://play.google.com/store/apps/details?id=com.upnox.app">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">
+</a>
+
 Upnox, spor salonu üyeleri ve bireysel sporcular için geliştirilen, antrenman ve beslenme süreçlerini dijitalleştirerek daha sistematik, ölçülebilir ve sürdürülebilir hale getirmeyi amaçlayan bir mobil uygulamadır.
 
 Bu repository, Upnox projesinin mimarisini, mühendislik yaklaşımını ve teknik kararlarını sergilemek amacıyla oluşturulmuştur.
